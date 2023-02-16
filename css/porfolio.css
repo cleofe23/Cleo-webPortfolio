@@ -20,7 +20,7 @@ body{
     background-image: url(https://free4kwallpapers.com/uploads/originals/2015/08/25/website-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding:40px
+    padding: 9%;
 }
 nav{
     display: flex;
@@ -106,10 +106,17 @@ span{
 }
 
 .space{
-    margin-top: 5vh;
-    height: 69vh;
+    margin-top: 7vh;
+    height: 65vh;
     width: 100%;
     background-color: rgba(6, 72, 110, 0.219);
+}
+h1{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0d0d0e;
+    font-size: large;
+    
 }
 
 
